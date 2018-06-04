@@ -1,5 +1,5 @@
 
-<img src="./images/FAN.png" width="100%">
+<img src="./images/FAN.png" width="50%">
 
 ---
 
