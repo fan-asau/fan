@@ -1,5 +1,5 @@
 
-![announce](./images/FAN.png =200×200)
+<img src="./images/FAN.png" width="200×200>
 
 ---
 
