@@ -1,5 +1,5 @@
 
-![announce](./images/FAN.png)
+![announce](./images/FAN.png =200×200)
 
 ---
 
@@ -35,7 +35,9 @@
 --
 
 ![announce](./images/nend.png)
+
 ![announce](./images/nex8.png)
+
 ![announce](./images/viidle.png)
 
 ---
@@ -52,4 +54,6 @@
 
 ---
 
-## インターンその４
+## ご清聴ありがとうございました。
+
+https://fan-as-uchida.github.io/event2018/
