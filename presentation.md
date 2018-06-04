@@ -18,7 +18,7 @@
 
 - 会社名　　株式会社ファンコミュニケーションズ
 - 設立年　　1999年10月1日
-- 本社　　　東京渋谷
+- 本社　　　東京渋谷区渋谷1-1-8
 - 従業員数　単体413名
 - 資本金　　11億6,894万円
 
@@ -30,27 +30,35 @@
 
 --
 
-![announce](./images/A8.png)
+![A8](./images/A8.png)
 
 --
 
-![announce](./images/nend.png)
+![nend](./images/nend.png)
 
-![announce](./images/nex8.png)
+![nex8](./images/nex8.png)
 
-![announce](./images/viidle.png)
+![viidle](./images/viidle.png)
+
+--
+
+- <!-- .element: class="fragment" --> 月間400億のインプレッション
+- <!-- .element: class="fragment" --> 秒間数十万のリクエスト
 
 ---
 
 ## インターンその１
+### データ分析インターン
 
 ---
 
 ## インターンその２
+### Scalaインターン
 
 ---
 
 ## インターンその３
+### SDKインターン
 
 ---
 
