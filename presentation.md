@@ -40,11 +40,7 @@
 
 ### アドネットワーク
 
-![nend](./images/nend.png)
-
-![nex8](./images/nex8.png)
-
-![viidle](./images/viidle.png)
+![adnetwork](./images/ad.png)
 
 --
 
