@@ -5,7 +5,7 @@
 
 ## 自己紹介
 
-![](./images/image.jpg)
+![](./images/image.png)
 
 ### 内田 あさこ (Asako Uchida)
 
