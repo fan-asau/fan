@@ -74,7 +74,7 @@
 ## SDKインターン
 
 - 内容：SDKの基礎を学習。アプリに広告を組み込む。
-- 言語：Swift、Java、Kotlin、Objective-C
+- 言語：Swift、Objective-C、Java、Kotlin
 
 ---
 
