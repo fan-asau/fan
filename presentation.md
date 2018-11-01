@@ -47,6 +47,10 @@
 
 ---
 
+![YANA](./images/yanat.png)
+
+---
+
 ## ご清聴ありがとうございました。
 
 https://fan-as-uchida.github.io/event2018/
