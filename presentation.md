@@ -32,6 +32,10 @@
 
 --
 
+![AD_ex](./images/phonead_ex.png)
+
+--
+
 ![A8](./images/A8.png)
 
 --
