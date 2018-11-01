@@ -47,7 +47,7 @@
 
 ---
 
-![YANA](./images/yanat.png)
+![YANA](./images/yanat.jpg)
 
 ---
 
