@@ -26,8 +26,6 @@
 
 ---
 
-## 事業概要
-
 ![AD](./images/phonead.png)
 
 --
