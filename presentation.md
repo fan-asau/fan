@@ -19,7 +19,7 @@
 
 --
 
-~~ウザイ~~ 広告配信システム
+広告配信システム
 
 --
 
@@ -28,6 +28,10 @@
 --
 
 ![adnetwork](./images/ad.png)
+
+--
+
+![sakai](./images/sakai.png)
 
 --
 
