@@ -31,11 +31,11 @@
 
 --
 
-![sakai](./images/sakai.png)
+![sakai](./images/sakai.JPG)
 
 --
 
-![yamachan](./images/yamachan.png)
+![yamachan](./images/yamachan.jpg)
 
 --
 
