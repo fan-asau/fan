@@ -35,7 +35,7 @@
 
 --
 
-![yamachan](./images/yamachan.jpg)
+![yamachan](./images/yamanaka.jpg)
 
 --
 
