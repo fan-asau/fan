@@ -33,6 +33,14 @@
 
 --
 
+![adnetwork2](./images/cpc-img1-sp.png)
+
+--
+
+![lang](./images/language.pdf)
+
+---
+
 ## インターン生募集中
 
 - 広告配信構築インターン
