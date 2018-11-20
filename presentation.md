@@ -33,11 +33,11 @@
 
 --
 
-![adnetwork2](./images/cpc-img1-sp2.png)
+![adnetwork2](./images/cpc-img1-pc2.png)
 
 --
 
-![lang](./images/language.pdf)
+![language](./images/language.pdf)
 
 ---
 
