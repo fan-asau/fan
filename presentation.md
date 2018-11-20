@@ -33,14 +33,6 @@
 
 --
 
-![sakai](./images/sakai.JPG)
-
---
-
-![yamachan](./images/yamanaka.jpg)
-
---
-
 ## インターン生募集中
 
 - 広告配信構築インターン
