@@ -37,7 +37,7 @@
 
 --
 
-![language](./images/language.pdf)
+![language](./images/lang.png)
 
 ---
 
