@@ -1,5 +1,5 @@
 
-<img src="./images/fan_high.png">
+<img src="./images/fan_high2.png">
 
 ---
 
