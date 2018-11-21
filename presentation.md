@@ -38,7 +38,7 @@
 
 --
 
-![language](./images/lang.png)
+![language](./images/lang2.png)
 
 --
 
