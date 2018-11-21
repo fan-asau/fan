@@ -30,7 +30,7 @@
 
 --
 
-![adnetwork](./images/ad.png)
+![adnetwork](./images/logo.png)
 
 --
 
