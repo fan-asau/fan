@@ -13,7 +13,7 @@
 
 --
 
-![map](./images/map.png)
+![map](./images/map2.png)
 
 --
 
