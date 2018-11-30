@@ -10,7 +10,7 @@
 
 --
 
-![map](./images/)
+![map](./images/map.png)
 
 --
 
