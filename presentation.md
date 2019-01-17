@@ -65,4 +65,4 @@
 
 ## ご清聴ありがとうございました。
 
-https://fan-as-uchida.github.io/event2018/
+https://fan-asau.github.io/event/
