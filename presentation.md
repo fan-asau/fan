@@ -7,30 +7,9 @@
 
 - 従業員数：411名
 
-- 設立：1999年10月1日
-
-- 本社：東京都渋谷区
-
 --
 
-![map](./images/map2.png)
-
---
-
-![YANA](./images/yanat.jpg)
-## ヤナティ
-
----
-
-![AD](./images/phonead.png)
-
---
-
-![AD_ex](./images/phonead_ex.png)
-
---
-
-# 広告配信システム
+# アドネットワーク企業
 
 --
 
@@ -44,25 +23,26 @@
 
 ![adnetwork2](./images/cpc-img1-pc2.png)
 
+---
+
+# nend
+
+- 広告主とメディアをつなぐシステム
+- 2010年開始で今年9年目
+- 月間300億のインプレッション
+- 売上が10億/月
+
+--
+
+# nex8
+
+- 今年で6年目のサービス
+- DSP
+- 国内のSSPとはほぼ接続済み
+- 売上が2億/月
+
 --
 
 ![language](./images/lang3.png)
 
 --
-
-![hack](./images/hack.PNG)
-
---
-
-![balance](./images/balance.png)
-
----
-
-## 技術とワークライフバランス
-
-
----
-
-## ご清聴ありがとうございました。
-
-https://fan-asau.github.io/event/
